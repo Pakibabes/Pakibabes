@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/58/6a/93/586a9353b2c3f4864384a1ac3c775e50.jpg" width="80%" />
+  <img src="https://i.pinimg.com/736x/58/6a/93/586a9353b2c3f4864384a1ac3c775e50.jpg" width="100%" />
 </div>
 
 <div align="center">
@@ -36,10 +36,6 @@ Coffee + Code ☕
 <img src="https://github-readme-stats.shion.dev/api?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
 
 <img src="https://streak-stats.demolab.com/?user=Pakibabes&theme=dark&hide_border=false" height="150"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="70%" height="150" />
 
 </div>
 
