@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, ako si John Lyster a:<br> <br>BSCS - 3 Computer Science Student @ CIT-U<br>Aspiring Web-Developer | Calisthenic Enthusiast | Gamer  <br><br>💻 Currently learning: Node.js, Express, Databases<br><br>Discipline through Calisthenics 💪<br>Gamer by night 🎮<br>Coffee + Code ☕<br><br>
+# 💫 Hi, ako si John Lyster :
+a:<br> <br>BSCS - 3 Computer Science Student @ CIT-U<br>Aspiring Web-Developer | Calisthenic Enthusiast | Gamer  <br><br>💻 Currently learning: Node.js, Express, Databases<br><br>Discipline through Calisthenics 💪<br>Gamer by night 🎮<br>Coffee + Code ☕<br><br>
 
 
 ## 🌐 Socials:
