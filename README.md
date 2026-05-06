@@ -39,15 +39,7 @@ Coffee + Code ☕
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="70%" height="150" />
 
 </div>
 
