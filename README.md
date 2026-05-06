@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>💫 Hi, ako si John Lyster :</h1>
+<h1>💫 Hi, I am John Lyster :</h1>
 
 BSCS - 3 Computer Science Student @ CIT-U<br>
 Aspiring Web-Developer | Calisthenic Enthusiast | Gamer<br><br>
