@@ -6,15 +6,24 @@
 a:<br> <br>BSCS - 3 Computer Science Student @ CIT-U<br>Aspiring Web-Developer | Calisthenic Enthusiast | Gamer  <br><br>💻 Currently learning: Node.js, Express, Databases<br><br>Discipline through Calisthenics 💪<br>Gamer by night 🎮<br>Coffee + Code ☕<br><br>
 
 <div align="center">
+
 <h2>💻 Tech Stack:</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,figma,github,git,linux,mysql,notion,nodejs,py,react,vscode)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,figma,github,git,linux,mysql,notion,nodejs,react,vscode" />
+
+<br><br>
+
+<h2>📊 GitHub Stats:</h2>
+
+<img src="https://github-readme-stats.shion.dev/api?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img src="https://streak-stats.demolab.com/?user=Pakibabes&theme=dark&hide_border=false" />
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
+
 </div>
-
-<h2>📊 GitHub Stats:</h2>h2>
-![](https://github-readme-stats.shion.dev/api?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Pakibabes&theme=dark&hide_border=false)<br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" height="20px"/>
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
