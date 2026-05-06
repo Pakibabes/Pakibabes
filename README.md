@@ -1,9 +1,14 @@
 <div align="center">
+  <img src="https://i.pinimg.com/736x/d6/4b/0f/d64b0fd6a66dfdc95b4095bff97c9aee.jpg" width="80%" />
+</div>
+<div align="center">
 # 💫 Hi, ako si John Lyster :
 a:<br> <br>BSCS - 3 Computer Science Student @ CIT-U<br>Aspiring Web-Developer | Calisthenic Enthusiast | Gamer  <br><br>💻 Currently learning: Node.js, Express, Databases<br><br>Discipline through Calisthenics 💪<br>Gamer by night 🎮<br>Coffee + Code ☕<br><br>
 
+<div align="center">
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,figma,github,git,linux,mysql,notion,nodejs,py,react,vscode)](https://skillicons.dev)
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
