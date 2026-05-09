@@ -23,8 +23,9 @@ Coffee + Code ☕
 
 <h2>💻 Tech Stack:</h2>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,figma,github,git,linux,mysql,notion,nodejs,react,vscode"  target="_blank"/>
-
+<img src="https://skillicons.dev/icons?i=github,git,linux,mysql,notion,nodejs,react,vscode"  target="_blank"/>
+<br>
+<img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,figma"  target="_blank"/>
 </div>
 
 <br>
@@ -33,8 +34,7 @@ Coffee + Code ☕
 
 <h2>📊 GitHub Stats:</h2>
 
-<img src="https://github-readme-stats.shion.dev/api?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" target="_blank" height="150"/>
-
+<!-- <img src="https://github-readme-stats.shion.dev/api?username=Pakibabes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" target="_blank" height="150"/> -->
 <img src="https://streak-stats.demolab.com/?user=Pakibabes&theme=dark&hide_border=false" target="_blank" height="150"/>
 
 </div>
