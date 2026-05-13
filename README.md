@@ -25,7 +25,7 @@ Coffee + Code ☕
 
 <img src="https://skillicons.dev/icons?i=github,git,linux,mysql,notion,nodejs,react,vscode"  target="_blank"/>
 <br>
-<img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,figma"  target="_blank"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,figma,cs,dotnet"  target="_blank"/>
 </div>
 
 <br>
