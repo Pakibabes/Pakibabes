@@ -6,7 +6,7 @@
 
 <h1>💫 Hi, I am John Lyster :</h1>
 
-BSCS - 3 Computer Science Student @ CIT-U<br>
+BSCS - 4 Computer Science Student @ CIT-U<br>
 Aspiring Web-Developer | Calisthenic Enthusiast | Gamer<br><br>
 
 💻 Currently learning: React + Vite, Express JS, MongoDB<br><br>
